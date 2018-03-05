@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1520197752875.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4162780793",
+    "id" : "894CF83B",
+    "lastKnownWriteTime" : 1520209102,
+    "last_content_update" : 1520209102,
+    "path" : "~/nancian/nancian/R/central_tendency.R",
+    "project_path" : "R/central_tendency.R",
+    "properties" : {
+        "cursorPosition" : "29,0",
+        "scrollLine" : "7",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
