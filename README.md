@@ -21,10 +21,18 @@ As funções vão sendo adicionadas com o decorrer das aulas. A lista de funçõ
 - <code>md</code>: Função para encontrar a mediana; 
 - <code>mo</code>: Função para encontrar a moda. 
 
+### Probabilidade
+
+- <code>prob_simple</code>: Função para cálculo de probabilidade simples;
+- <code>prob_sum</code>: Função para cálculo de probabilidade utilizando o teorema da soma;
+- <code>prob_prod</code>: Função para cálculo de probabilidade utilizando o teorema de produto;
+- <code>prob_solver</code>: Função para cálculo de probabilidade de ocorrência de certo evento, aplicando os teoremas de soma e produto.
+
 ### Correlação e regressão
 
 - <code>Linear</code>: Classe com funcionalidades para realizar regressão linear;
-- <code>Pearson</code>: Classe para cálculos da correlação de Pearson.
+- <code>Pearson</code>: Classe para cálculos da correlação de Pearson;
+- <code>plot_disp</code>: Função para realizar o plot do diagrama de dispersão.
 
 ### Extras
 
