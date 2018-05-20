@@ -23,7 +23,7 @@ As funções vão sendo adicionadas com o decorrer das aulas. A lista de funçõ
 
 ### Correlação e regressão
 
-- <code>Linear</conde>: Classe com funcionalidades para realizar regressão linear;
+- <code>Linear</code>: Classe com funcionalidades para realizar regressão linear;
 - <code>Pearson</code>: Classe para cálculos da correlação de Pearson.
 
 ### Extras
