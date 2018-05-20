@@ -2,16 +2,6 @@
 
 Pacote criado com a ideia de aprender sobre estatística. Utilizando de poucas funções prontas foi criado durante as aulas de estatística.
 
-### Utilização
-
-Importe os scripts
-```R
-source('nancian/R/central_tendency.R');
-source('nancian/R/frequency.R');
-```
-
-Após realizar os imports, basta utilizar as funções que estão disponíveis.
-
 ## Funções disponíveis
 
 As funções vão sendo adicionadas com o decorrer das aulas. A lista de funções já programada está abaixo.
@@ -31,4 +21,16 @@ As funções vão sendo adicionadas com o decorrer das aulas. A lista de funçõ
 - <code>md</code>: Função para encontrar a mediana; 
 - <code>mo</code>: Função para encontrar a moda. 
 
-OBS: A nomenclatura foi definida seguindo alguns exercícios de sala.
+### Correlação e regressão
+
+- <code>Linear</conde>: Classe com funcionalidades para realizar regressão linear;
+- <code>Pearson</code>: Classe para cálculos da correlação de Pearson.
+
+### Extras
+
+Há ainda alguns extras para os alunos da Nanci
+
+- Tabelas: Aqui há funções para gerar as tabelas feitas nos exercícios da Nanci
+	- <code>table_five</code>: Gera tabelas dos exercícios da lista 5.
+
+OBS: A nomenclatura foi definida seguindo alguns exercícios de aula, do curso de estatística aplicada da Fatec.
