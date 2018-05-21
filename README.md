@@ -42,10 +42,3 @@ Há ainda alguns extras para os alunos da Nanci
 	- <code>table_five</code>: Gera tabelas dos exercícios da lista 5.
 
 OBS: A nomenclatura foi definida seguindo alguns exercícios de aula, do curso de estatística aplicada da Fatec.
-
-### ToDo
-
-- [ ] Distribuições de probabilidade;
-- [ ] Melhorar os plots da regressão;
-- [ ] Adicionar plots às funções;
-- [ ] Criar uma interface de comunicação simplificada (API/Notebooks).
