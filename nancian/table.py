@@ -30,7 +30,7 @@ def table_five(x: list, y: list):
     
     return table
 
-def nearest_neighbors(element: float, table: pd.DataFrame):
+def nearest_neighbors_norm(element: float):
     """Função para buscar o elemento mais próximo de um dado elemento
     :param: element: Elemento referência na busca de proximidade
     :param: table: Tabela onde a busca será realizada
@@ -39,8 +39,8 @@ def nearest_neighbors(element: float, table: pd.DataFrame):
     d = Eq - Ep
     """
     
-    # Distância inicial
-    d = 1 
+    table = pd.read_csv('nancian/tables/normal_dist_table.csv')
+    
     # Armazenamento das informações do elemento encontrado
     neighbor = {'neighbor': 0, 'column': 0, 'row': 0, 'distance': 1} 
 
