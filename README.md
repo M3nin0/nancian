@@ -40,6 +40,6 @@ Há ainda alguns extras para os alunos da Nanci
 
 - Tabelas: Aqui há funções para trabalhar com as tabelas dos exercícios da Nanci
 	- <code>table_five</code>: Gera tabelas dos exercícios da lista 5;
-	- <code>nearest_neighbors_norm</code>: Encontra o elemento mais próximo do inserido na tabela de distribuição normal.
+	- <code>nearest_neighbors</code>: Encontra o elemento mais próximo do inserido na tabela de distribuição normal ou tabela student.
 
 OBS: A nomenclatura foi definida seguindo alguns exercícios de aula, do curso de estatística aplicada da Fatec.
