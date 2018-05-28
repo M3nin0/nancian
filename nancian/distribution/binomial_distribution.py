@@ -6,7 +6,7 @@ class BinomialDistribution:
         self.arguments = arguments
         self.nk = self.arguments.n - self.arguments.k
 
-    def calculaIgual(self):
+    def calcula(self):
         self.arguments.PXk = self._a() / self._b() * self._c()
         return self.arguments
 

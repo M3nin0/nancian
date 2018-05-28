@@ -15,6 +15,10 @@ class Binomial:
         """
         pass
 
+    def __repr__(self):
+        return "A propabilidade de que o evento se realize {0} vezes em {1} é de {2}\nou " \
+               "{3:.2f}%".format(self.k, self.n, self.PXk, self.PXk * 100)
+
 class Poisson:
     Px = None
     e = math.e
