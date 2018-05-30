@@ -45,4 +45,10 @@ Há ainda alguns extras para os alunos da Nanci
 	- <code>table_five</code>: Gera tabelas dos exercícios da lista 5;
 	- <code>nearest_neighbors</code>: Encontra o elemento mais próximo do inserido na tabela de distribuição normal ou tabela student. Recomenda-se o uso deste nos exercícios de teste de hipótese.
 
+### Apresentação
+
+Para ver a apresentação do projeto, acesse o diretório `notebooks` e digite:
+
+<code>jupyter nbconvert Presentation.ipynb --to slides --post serve</code>
+
 OBS: A nomenclatura foi definida seguindo alguns exercícios de aula, do curso de estatística aplicada da Fatec.
