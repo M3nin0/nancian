@@ -34,12 +34,15 @@ As funções vão sendo adicionadas com o decorrer das aulas. A lista de funçõ
 - <code>Pearson</code>: Classe para cálculos da correlação de Pearson;
 - <code>plot_disp</code>: Função para realizar o plot do diagrama de dispersão.
 
+### Teste de hipótese
+- <code>HypothesisTest</code>: Classe com funcionalidades para realizar testes de hipótese.
+
 ### Extras
 
 Há ainda alguns extras para os alunos da Nanci
 
 - Tabelas: Aqui há funções para trabalhar com as tabelas dos exercícios da Nanci
 	- <code>table_five</code>: Gera tabelas dos exercícios da lista 5;
-	- <code>nearest_neighbors</code>: Encontra o elemento mais próximo do inserido na tabela de distribuição normal ou tabela student.
+	- <code>nearest_neighbors</code>: Encontra o elemento mais próximo do inserido na tabela de distribuição normal ou tabela student. Recomenda-se o uso deste nos exercícios de teste de hipótese.
 
 OBS: A nomenclatura foi definida seguindo alguns exercícios de aula, do curso de estatística aplicada da Fatec.
