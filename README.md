@@ -60,3 +60,8 @@ Para executar os códigos `R`, basta ter instalado o pacote da linguagem `R` e e
 `pip install -r requirements.txt`
 
 Após fazer a instalação das bibliotecas necessárias, basta apenas executar `jupyter-notebook` e executar os notebooks.
+
+### Outras implementações
+
+Caso você prefira/precise existe também a implementação deste pacote de soluções em C/C++, o [nancia.h](https://github.com/M3nin0/nancian.h), ele ainda não possui todas as funcionalidades listadas aqui, mas pode te ajudar a resolver alguns exercícios :smile:
+
